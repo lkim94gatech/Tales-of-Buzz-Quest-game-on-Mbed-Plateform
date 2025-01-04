@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Tales of Buzz** is a custom-built top-down role-playing game (RPG) designed for the ECE 2035 Programming HW/SW Systems course. This project uses a gaming circuit assembled on a breadboard with a 5-switch NavSwitch, speaker, buttons, and a uLCD screen, all programmed via the Mbed platform. It features a dynamic game loop, quest system, and engaging mechanics that bring the RPG experience to life. Players embark on a quest to defeat bosses, unlock secrets, and complete challenges in the game world.
+**Tales of Buzz** is a custom-built top-down role-playing game (RPG) designed for the ECE 2035: Programming HW/SW Systems course. This project uses a gaming circuit assembled on a breadboard with a 5-switch NavSwitch, speaker, buttons, and a uLCD screen, all programmed via the Mbed platform. It features a dynamic game loop, quest system, and engaging mechanics that bring the RPG experience to life. Players embark on a quest to defeat bosses, unlock secrets, and complete challenges in the game world.
 
 ---
 
